@@ -1,0 +1,14 @@
+zabbix_tool 1.2版本
+
+
+该版本软件内部用socket进行通信，并对socket通信过程进行了加密
+
+server文件夹里的内容需要放在zabbix server服务器上
+
+client文件夹里的内容可以放在任意客户机上运行
+
+server和client里面的zabbix_config都需要进行填写 client的zabbix_config内的数据库配置可以不填写
+
+client 里 zabbix_config中的server bind信息可以在server中自定义
+
+发现相关的bug欢迎issues

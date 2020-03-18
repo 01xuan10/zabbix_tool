@@ -1,0 +1,10 @@
+zabbix_tool 1.1版本
+
+
+该版本未加密  wireshark抓包可显示该脚本和mysql的交互过程
+
+但是该版本对后台监控特别是zabbix服务器还未开启时候的监控支持比较好
+
+请填写zabbix_config里面的相关信息
+
+有相关bug可以发issues
