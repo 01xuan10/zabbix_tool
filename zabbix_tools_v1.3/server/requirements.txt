@@ -3,5 +3,5 @@ cryptography==2.8
 pyasn1==0.4.8
 pycparser==2.19
 PyMySQL==0.9.3
-rsa==4.0
+rsa==4.1
 six==1.14.0
